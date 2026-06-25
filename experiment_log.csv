@@ -1,0 +1,2 @@
+timestamp,model,val_accuracy,baseline_accuracy,delta,notes
+2026-06-25 17:32,DecisionTree(max_depth=3),0.9333,0.3,0.6333,First model run
